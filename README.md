@@ -2,5 +2,5 @@
 
 Finished Date: _2020/11/11_
 
-> Reference Course: One of Course for Excel to MySQL : Analytic Techniques for Business Specialization in SQL Server  
-> Reference Link: https://www.coursera.org/learn/
+> Reference Course:
+> One of Course for Excel to MySQL : Analytic Techniques for Business Specialization in SQL Server
